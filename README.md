@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hari
 - 👀 I’m interested in Full stack Web Development With MERN stack
 - 🌱 I’m currently learning React, NextJs and Express
-- 💞️ I’m looking to collaborate on projects involving Frontend development
+- 💞️ I’m looking to collaborate on projects involving frontend and backend development
 - 📫 Contact@ Mail: hari70319@gmail.com
 
 <!---
